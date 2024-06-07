@@ -1,2 +1,2 @@
-# Desktop-Chicken
-A chicken desktop pet made in python
+# Desktop-Duck
+A duck desktop pet made in python
